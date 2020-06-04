@@ -1,0 +1,7 @@
+.img-with-content {
+	border-radius: 4px;
+ 	object-fit: cover;
+ 	width: 300px;
+ 	height: 220px;
+}
+

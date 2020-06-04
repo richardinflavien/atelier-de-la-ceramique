@@ -1,0 +1,12 @@
+.cards {
+	margin-top: 40px;
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.scroll-cards {
+	display: flex;
+	overflow: scroll;
+	margin-top: 40px;
+}

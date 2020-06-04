@@ -1,0 +1,12 @@
+#notification-bar {
+	top:61px;
+	height: 50px;
+	position: fixed;
+	width: 100%;
+	opacity: 0.8;
+	color: black;
+	background-color: white;
+	font-size: 14px;
+	text-align: center;
+	vertical-align: middle;
+}
